@@ -5,3 +5,5 @@ Python
 # How To Run-
 step1- Install requirements
 step2- Run Python File
+ ## Output
+ Chatbot interacts with users through terminal
